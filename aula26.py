@@ -7,6 +7,12 @@ id = identidade
 '''
 
 v1 = 'a'
-v2 = 'a'
+v2 = 'b'
 print(id(v1))
 print(id(v2))
+
+# condicao = false
+# if condicao:
+#     print('Faça algo')
+# else:
+#     print('Nao faça algo')
