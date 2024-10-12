@@ -75,4 +75,4 @@
 #         print('Seu nome é grandeg')
     
 # else:
-#     print('Por favor, digite mais de uma letra')
+#     print('Por favor, digite mais de uma letra')A, B, C, D = int()

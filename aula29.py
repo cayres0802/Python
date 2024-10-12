@@ -2,4 +2,4 @@
 # Imutáveis que vimos: str, int, float, bool
 
 string = 'clara'
-print(string[3])
+print(string)
