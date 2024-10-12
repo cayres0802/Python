@@ -6,13 +6,13 @@ id = identidade
 
 '''
 
-v1 = 'a'
-v2 = 'b'
-print(id(v1))
-print(id(v2))
+# v1 = 'a'
+# v2 = 'b'
+# print(id(v1))
+# print(id(v2))
 
-# condicao = false
-# if condicao:
-#     print('Faça algo')
-# else:
-#     print('Nao faça algo')
+condicao = false
+if condicao:
+    print('Faça algo')
+else:
+    print('Nao faça algo')
