@@ -1,9 +1,8 @@
 # Lê o valor monetário com duas casas decimais
 
 N = float(input())
-=======
+
 N = float(input("Digite o valor: "))
->>>>>>> d2230174c4ef1f495cf3faea8bccec9564d7247a
 
 # Multiplica o valor por 100 para evitar problemas com precisão de ponto flutuante
 valor = int(N * 100)
